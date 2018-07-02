@@ -7,4 +7,4 @@ yrp_content.icon = "https://steamuserimages-a.akamaihd.net/ugc/95858721562037388
 yrp_content.workshopid = "1189643820"
 yrp_content.discord = "https://discord.gg/ZzbezAJ"
 yrp_content.settings = ""
-AddYRPAddon(tab)
+AddYRPAddon(yrp_content)
