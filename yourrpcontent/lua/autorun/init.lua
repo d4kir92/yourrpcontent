@@ -1,5 +1,6 @@
 
 if SERVER then
+	YRP = YRP or {}
 	hook.Add( "InitPostEntity", "yourrp_content_init", function()
 		local yrp_content = {}
 		yrp_content.name = "YourRP Content"
