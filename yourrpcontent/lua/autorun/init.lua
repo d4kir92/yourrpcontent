@@ -1,6 +1,6 @@
 
 if SERVER then
-	hook.Add( "Initialize", "yourrp_content_init", function()
+	hook.Add( "get_yourrp_addons", "yourrp_content_init", function()
 		local yrp_content = {}
 		yrp_content.name = "YourRP Content"
 		yrp_content.author = "D4KiR"
