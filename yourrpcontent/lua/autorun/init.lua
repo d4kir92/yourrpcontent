@@ -9,6 +9,6 @@ if SERVER then
 		yrp_content.workshopid = "1189643820"
 		yrp_content.discord = "https://discord.gg/ZzbezAJ"
 		yrp_content.settings = ""
-		AddYRPAddon(yrp_content)
+		YRP:AddYRPAddon(yrp_content)
 	end)
 end
