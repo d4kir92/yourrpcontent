@@ -5,7 +5,7 @@ if SERVER then
 		yrp_content.name = "YourRP Content"
 		yrp_content.author = "D4KiR"
 		yrp_content.description = "Materials (Icons, ...)\nModels\nResources (Fonts, Translations, ...)"
-		yrp_content.icon = "https://imgur.com/fTj5MzK"
+		yrp_content.icon = "https://i.imgur.com/fTj5MzK.jpg"
 		yrp_content.workshopid = "1189643820"
 		yrp_content.discord = "https://discord.gg/ZzbezAJ"
 		yrp_content.settings = ""
